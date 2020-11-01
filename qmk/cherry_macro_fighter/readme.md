@@ -5,7 +5,7 @@ A DIY, fully programmable macropad with arcade-style buttons using cherry like m
 ![Cherry macro fighter](https://manuelbajo.com/files/images/cherry_macro_fighter.jpg)
 
 Keyboard Maintainer: Manuel Bajo  
-Hardware Supported: Cherry macro fighter 
+Hardware Supported: Cherry macro fighter  
 Hardware Availability: [mbajobue/cherry_macro_fighter](https://github.com/mbajobue/cherry_macro_fighter)
 
 Make example for this keyboard (after setting up your build environment):
